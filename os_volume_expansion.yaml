@@ -1,0 +1,14 @@
+apiVersion: ops.kubedb.com/v1alpha1
+kind: ElasticsearchOpsRequest
+metadata:
+  name: os-volume-expansion
+  namespace: demo
+spec:
+  type: VolumeExpansion
+  databaseRef:
+    name: os-cluster
+  volumeExpansion:
+    topology:
+      data: 2Gi
+# volumeExpansion:
+#   node: 3Gi
