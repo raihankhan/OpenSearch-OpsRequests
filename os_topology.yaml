@@ -9,7 +9,7 @@ spec:
   storageType: Durable
   topology:
     master:
-      replicas: 2
+      replicas: 1
       storage:
         storageClassName: "standard"
         accessModes:

@@ -9,6 +9,6 @@ spec:
     name: os-cluster
   volumeExpansion:
     topology:
-      data: 2Gi
+      data: 1.5Gi
 # volumeExpansion:
 #   node: 3Gi

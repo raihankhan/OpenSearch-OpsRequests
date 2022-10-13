@@ -19,9 +19,9 @@ spec:
         requests:
           cpu: 500m
           memory: 2Gi
-      ingest:
-        limits:
-          memory: 1.8Gi
-        requests:
-          cpu: 500m
-          memory: 1.8Gi
+    # ingest:
+    #   limits:
+    #     memory: 1.8Gi
+    #   requests:
+    #     cpu: 500m
+    #     memory: 1.8Gi
