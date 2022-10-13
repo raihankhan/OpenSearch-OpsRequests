@@ -49,6 +49,7 @@ $ kubectl apply -f os_restart.yaml
 
 For hands on demo, take a deep dive into the full webinar below:
 
-<iframe style="height: 500px; width: 800px" src="https://youtube.com/embed/gSoWaVV4iQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![OpenSearch OpsReq](https://img.youtube.com/vi/gSoWaVV4iQo/0.jpg)](https://www.youtube.com/watch?v=gSoWaVV4iQo)
+
 
 
