@@ -1,3 +1,5 @@
+# OpenSearch Day 2 lifecycle management with KubeDB
+
 KubeDB OpsRequest is an enterprise grade feature for databases. Get a free 30 day KubeDB Enterprise Edition trial licence from [AppsCode License server](https://license-issuer.appscode.com/?p=kubedb-enterprise). Now, install KubeDB with the license.
 
 ```
